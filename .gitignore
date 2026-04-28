@@ -30,7 +30,6 @@ application-secret.properties
 *.iml
 *.iws
 *.ipr
-.vscode/
 .project
 .classpath
 .settings/
